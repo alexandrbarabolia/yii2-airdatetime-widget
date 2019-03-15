@@ -1,4 +1,5 @@
 {
+  "version": "0.0.1",
   "name": "obarabolia/yii2-airdatetime-widget",
   "description": "Date/Time Picker widget for Yii2 framework",
   "type": "yii2-extension",
